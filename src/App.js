@@ -4,19 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>My first react app</h1>
-        <h5>Happy Coding</h5>
-        <a
-          className="App-link"
-          href="https://pickupbiz.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn with PickupBiz
-        </a>
-      </header>
+     <h1>Hello World</h1>
     </div>
   );
 }
